@@ -7,7 +7,7 @@ import NotPage
 const AppRoute=()=>{
     return (
       <Routes>
-        <Route path={'/'} element={<Users/>} />
+        <Route path={'/users'} element={<Users/>} />
         <Route path="/posts/:userId" element={<Posts/>} />
         <Route path={'/albums/:userId'} element={<Albums />} />
         <Route path={'*'} element={<NotPage />} />

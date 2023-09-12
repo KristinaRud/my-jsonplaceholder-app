@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-jsonplaceholder-app/static/css/main.da3089f3.css",
+    "main.js": "/my-jsonplaceholder-app/static/js/main.803e68f0.js",
+    "static/js/787.a23a5628.chunk.js": "/my-jsonplaceholder-app/static/js/787.a23a5628.chunk.js",
+    "index.html": "/my-jsonplaceholder-app/index.html",
+    "main.da3089f3.css.map": "/my-jsonplaceholder-app/static/css/main.da3089f3.css.map",
+    "main.803e68f0.js.map": "/my-jsonplaceholder-app/static/js/main.803e68f0.js.map",
+    "787.a23a5628.chunk.js.map": "/my-jsonplaceholder-app/static/js/787.a23a5628.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da3089f3.css",
+    "static/js/main.803e68f0.js"
+  ]
+}

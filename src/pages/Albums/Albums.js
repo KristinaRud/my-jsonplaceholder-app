@@ -29,7 +29,7 @@ const Albums = () => {
     <>
       <div>
         <h1>Albums for userID {params.userId}</h1>
-        <Link to={`/users`}>
+        <Link to={`/`}>
           <Button variant="success">Go to Users</Button>
         </Link>
       </div>      

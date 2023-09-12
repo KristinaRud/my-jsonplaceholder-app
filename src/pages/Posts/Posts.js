@@ -29,7 +29,7 @@ const Posts = () => {
     <>
       <div>
         <h1>Post for userID {params.userId}</h1>
-        <Link to={`/users`}>
+        <Link to={`/`}>
           <Button variant="success">Go to Users</Button>
         </Link>
       </div>      
